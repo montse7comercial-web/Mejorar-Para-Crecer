@@ -1,0 +1,8 @@
+{
+  "name": "Liderarte para liderar personas",
+  "description": "Taller presencial de liderazgo y gestión de personas para mandos, responsables, directivos y profesionales que desean mejorar la comunicación, la gestión emocional y el desarrollo de sus equipos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

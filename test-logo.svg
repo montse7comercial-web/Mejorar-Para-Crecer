@@ -1,0 +1,24 @@
+<svg viewBox="0 0 940 370" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="20" y="102" fill="#544349" font-size="104" font-weight="800" font-family="'Montserrat', sans-serif" letter-spacing="-1.5">Mejorar</text>
+  <text x="202" y="216" fill="#544349" font-size="104" font-weight="800" font-family="'Montserrat', sans-serif" letter-spacing="-1.5">para</text>
+  <text x="20" y="330" fill="#544349" font-size="104" font-weight="800" font-family="'Montserrat', sans-serif" letter-spacing="-1.5">Crecer</text>
+  
+  <!-- Arrow -->
+  <path d="M592 342
+           C580 354 560 354 548 342
+           C536 330 536 310 548 298
+           L726 120
+           C734 112 745 107 756 107
+           L595 107
+           C578 107 564 93 564 76
+           C564 59 578 45 595 45
+           L885 4
+           C902 1 917 14 917 31
+           L917 285
+           C917 302 903 316 886 316
+           C869 316 855 302 855 285
+           L855 174
+           C855 163 850 152 842 144
+           L592 342Z" 
+        fill="#ee5b5b" />
+</svg>
